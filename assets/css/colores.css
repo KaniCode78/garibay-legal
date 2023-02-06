@@ -1,0 +1,64 @@
+/* Color Theme Swatches in Hex */
+.ELEGANTE-OSCURO-1-hex {
+    color: #060910;
+}
+
+.ELEGANTE-OSCURO-2-hex {
+    color: #174052;
+}
+
+.ELEGANTE-OSCURO-3-hex {
+    color: #728188;
+}
+
+.ELEGANTE-OSCURO-4-hex {
+    color: #D9CEBA;
+}
+
+.ELEGANTE-OSCURO-5-hex {
+    color: #CC9738;
+}
+
+/* Color Theme Swatches in RGBA */
+.ELEGANTE-OSCURO-1-rgba {
+    color: rgba(5, 8, 16, 1);
+}
+
+.ELEGANTE-OSCURO-2-rgba {
+    color: rgba(23, 63, 82, 1);
+}
+
+.ELEGANTE-OSCURO-3-rgba {
+    color: rgba(114, 128, 135, 1);
+}
+
+.ELEGANTE-OSCURO-4-rgba {
+    color: rgba(216, 205, 186, 1);
+}
+
+.ELEGANTE-OSCURO-5-rgba {
+    color: rgba(204, 151, 56, 1);
+}
+
+/* Color Theme Swatches in HSLA */
+.ELEGANTE-OSCURO-1-hsla {
+    color: hsla(0, 45, 4, 1);
+}
+
+.ELEGANTE-OSCURO-2-hsla {
+    color: hsla(0, 56, 20, 1);
+}
+
+.ELEGANTE-OSCURO-3-hsla {
+    color: hsla(0, 8, 49, 1);
+}
+
+.ELEGANTE-OSCURO-4-hsla {
+    color: hsla(0, 28, 79, 1);
+}
+
+.ELEGANTE-OSCURO-5-hsla {
+    color: hsla(0, 59, 50, 1);
+}
+
+
