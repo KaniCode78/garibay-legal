@@ -142,15 +142,41 @@ section {
 
 }
 
+/*area de servicio*/
+
+.flex-container {
+    display:flex;
+    justify-content: space-around;
+    gap: 5px;
+    
+    text-align: center;
+    
+}
+
+.card {
+    width: 300px;
+    height: 200px;
+    border-radius: 15px;
+    background-color: white;
+    background-repeat: space;
+    margin: 1px;
+    padding: 1px;
+    
+}
+
+.imagen-full {
+    border-radius: 15px;
+    width: 300px;
+    height: 200px;
+    object-fit: cover;
+    resize: both;
+    overflow: auto;
+
+}
 
 
 
 
-
-/* .sidebar {
-    grid-area: sidebar;
-
-} */
 
 .footer {
     grid-area: footer;
