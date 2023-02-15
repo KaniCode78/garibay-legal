@@ -127,7 +127,7 @@ a:active {
     background: rgba(0, 0, 0, 0.6);
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 60%;
     transform: translate(-150%, -150%);
     animation-name: tracking-in-expand-fwd;
     animation-duration: 5s;
