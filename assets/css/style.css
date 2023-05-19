@@ -2,8 +2,6 @@
 
 
 * {
-    padding: 0%;
-    margin: 0%;
     font-family: 'Allerta Stencil', sans-serif;
     background-color: white;
     color: black;
@@ -71,9 +69,6 @@ a:active {
 
 /*Terminan los keyframes*/
 
-.body {
-    background-color: white;
-}
 
 
 
@@ -82,6 +77,8 @@ a:active {
     grid: 150px auto auto auto;
     grid-template-areas: "header" "navbar" "main" "footer";
     gap: 10px;
+    margin: 0% auto;
+    padding: 0%;
 
 }
 
